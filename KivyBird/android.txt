@@ -1,0 +1,3 @@
+title=Kivy Bird
+author=Mordecay Aleksey Povar
+orientation=landscape
